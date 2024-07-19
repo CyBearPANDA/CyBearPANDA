@@ -1,4 +1,4 @@
-### Hi there 👋, Can (Dzhan) Gurbetçi
+###  Can (Dzhan) Gurbetçi
 #### Junior Front End Developer
 ![Junior Front End Developer](https://www.mitrais.com/wp-content/uploads/2023/01/SWD_Blog_Banner_-_Front-end_Web_Developer_101.jpg)
 
